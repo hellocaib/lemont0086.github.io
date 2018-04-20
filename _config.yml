@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lemont0086.github.io
+url: https://hellocaib.github.io
 date_format: "ordinal"
 title: Beyond
-subtitle: "内心火热的大炳哥"
-description: "Beyond的个人博客"
+subtitle: "hellocaib"
+description: "hellocaib的个人博客"
 keywords: Beyond, Bing Yao, Dabingge,Python, Spider
 timezone: Asia/Shanghai
 encoding: "utf-8"
